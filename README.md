@@ -5,6 +5,7 @@ The **2D_Animation_Software-Class_Project** is a sophisticated C++ application d
 
 An already compiled executable is located within the Precompiled Executable folder.
 
+![Program Picture](Program_Picture.png)
 ---
 
 ## Features
