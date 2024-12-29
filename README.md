@@ -5,10 +5,9 @@ The **2D_Animation_Software-Class_Project** is a sophisticated C++ application d
 
 An already compiled executable is located within the Precompiled Executable folder.
 
-<video width="320" height="240" controls>
-  <source src="Animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Example Video](https://drive.google.com/file/d/10UYedMMXY323gZcD_qbDCD9jN7PwTesf/view?usp=sharing)
+
+![Program Picture](Program_Picture.png)
 ---
 
 ## Features
